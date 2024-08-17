@@ -506,11 +506,6 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "01451ed01eff741fc62ddcc19204c2c478ea9f2b80085092bd03eee700a0dcab"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
 metafile = true
@@ -583,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
+file = "mods/vulpine.pw.toml"
+hash = "c6c6cda961071ea3b638c8205f20705bef86186dcefdb758bcf75986c8c1da47"
 metafile = true
 
 [[files]]
