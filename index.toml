@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "8d3c35a870fa6d9fe427d19c3762fa67213b15be1d95b82e76fb865b5f0e45c6"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18da38fc422d0395aa2bd96e9f8aa37ea4f1bc409b1818f6330be5784e4deb03"
 metafile = true
@@ -462,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "68df9a2e507a6bba70f999042e5bec064b6ebae992f8620e7f19082e08b6cc9c"
+hash = "6f544187351671449d090d19f2279c288efba093d470a0bbd4580eb2750105cb"
 metafile = true
 
 [[files]]
