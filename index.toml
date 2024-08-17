@@ -571,6 +571,11 @@ hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
+file = "mods/unifiedmetrics.pw.toml"
+hash = "aaded455b268616bdca69855696214269555ce7fb18349f76accf89d9e43c1b0"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "a7f4c9db27e6d88dff443299ba7b04418f17a60316678b14719c767194b43ff3"
 metafile = true
