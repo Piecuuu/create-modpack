@@ -1,12 +1,12 @@
 name = "Create modpack"
 author = "Piecuu"
-version = "1.0.0"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "15c9f1b1209bd74f1de7cea7ae1e4b126afb7af3fe8af2d229dcb991578f39ea"
+hash = "d6df52ebea7befcf6ef07f22bc923f7b8a80536982227f9a24e2bf058c298086"
 
 [versions]
 fabric = "0.16.2"
