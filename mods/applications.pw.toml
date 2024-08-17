@@ -1,0 +1,13 @@
+name = "MomentariyModder' Applications"
+filename = "[FabricQuilt 1.20.1]MomentariyModder'Applications[5.4.0].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7nX5EvcX/versions/KxYwrUIv/%5BFabricQuilt%201.20.1%5DMomentariyModder%27Applications%5B5.4.0%5D.jar"
+hash-format = "sha1"
+hash = "3856bfdba2146a7f9632fe5811e3e59f2b18a098"
+
+[update]
+[update.modrinth]
+mod-id = "7nX5EvcX"
+version = "KxYwrUIv"

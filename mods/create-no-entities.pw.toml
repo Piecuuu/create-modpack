@@ -1,0 +1,13 @@
+name = "Create: No Entities"
+filename = "create_no_entities-0.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/56HdtrNh/versions/kkbvDxhi/create_no_entities-0.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "1ddb11f0589dce706fcf5d357ab9015bd09870bc"
+
+[update]
+[update.modrinth]
+mod-id = "56HdtrNh"
+version = "kkbvDxhi"

@@ -1,0 +1,13 @@
+name = "Created Music Discs"
+filename = "[FabricQuilt 1.20.1]Created Music Discs[3.6.0].jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x63tCwHi/versions/ofImv63I/%5BFabricQuilt%201.20.1%5DCreated%20Music%20Discs%5B3.6.0%5D.jar"
+hash-format = "sha1"
+hash = "5f7a43d1876644f01ffa33c5b1a277d80cff315b"
+
+[update]
+[update.modrinth]
+mod-id = "x63tCwHi"
+version = "ofImv63I"

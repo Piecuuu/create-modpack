@@ -1,0 +1,13 @@
+name = "Create: Deepslate Processing"
+filename = "create_deepslate_processing-2.0.1+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eV1eX9u6/versions/RsTFIBzU/create_deepslate_processing-2.0.1%2Bfabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "a7e8b16c727d0af4b67194f269297e3eab505690"
+
+[update]
+[update.modrinth]
+mod-id = "eV1eX9u6"
+version = "RsTFIBzU"
